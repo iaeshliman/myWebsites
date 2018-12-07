@@ -1,0 +1,101 @@
+.article {
+    text-align: center;
+    font-family: sans-serif;
+    width: 80%;
+    line-height: 1.5;
+    margin: auto;
+}
+
+.tutor-card {
+    padding: 15px;
+    background: #e6e6e6;
+    margin-bottom: 2em;
+}
+
+.full-width {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: initial;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px gray;
+}
+
+.purple-background {
+    background: #4e4db3;
+    padding: 20px;
+}
+
+.round {
+    border-radius: 20px;
+}
+
+.event-row {
+    margin-bottom: 20px;
+    background: whitesmoke;
+    border:1px solid gray;
+}
+
+.tut-publish-button {
+    background: green;
+    display: block;
+    width: 25%;
+    margin: auto;
+    border: 5px solid purple;
+}
+
+.tut-deleteevent-button {
+    /* background: red; */
+    color: red;
+    display: inline-block;
+    font-size: 24pt;
+}
+
+.tut-deleteevent-button:hover {
+    cursor: pointer;
+    border: 1px solid gray;
+}
+
+.tutor-search {
+    display: block;
+    padding: 8px 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+/*TEXT COLORS*/
+
+.white {
+    color: white;
+}
+
+.green{
+    color: #4cb400;
+}
+
+.purple{
+    color: #4e4db3;
+}
+
+.orange{
+    color: #ee6230;
+}
+
+.lime{
+    color: #bbd03d;
+}
+
+.teal{
+    color:#59b4aa;
+}
+
+.yellow{
+    color:#eec416;
+}
